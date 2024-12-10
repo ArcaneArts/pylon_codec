@@ -1,0 +1,6 @@
+name: pylon_codec
+description: Codec Dart Interface for Pylon
+version: 1.0.0
+repository: https://github.com/ArcaneArts/pylon_codec
+environment:
+  sdk: ^3.5.4
